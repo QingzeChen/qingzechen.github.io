@@ -2,10 +2,10 @@
 title: "HiFAST: An Hı data calibration and imaging pipeline for the FAST IV: The stray-radiation correction"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/HiFAST IV.md
 excerpt: 'The stray-radiation correction'
 date: 2026-02-25
-venue: 'GitHub Journal of Bugs'
+venue: 'Chinese Phys. B '
 paperurl: ' https://doi.org/10.1088/1674-1056/ae4b27'
 citation: 'Chen et al 2026 Chinese Phys. B https://doi.org/10.1088/1674-1056/ae4b27'
 ---
